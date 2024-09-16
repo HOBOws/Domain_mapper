@@ -1,6 +1,6 @@
 # Domain_Mapper: A Multi-Level Domain Scanning Script
 
-Domain_Mapper is a domain scanning script designed to identify vulnerabilities in a domain environment for security assessment purposes. It leverages various tools to gather information, but it's crucial to note that it's intended for use on Kali Linux only. This script will automatically download any dependencies not pre-installed on Kali.
+Domain_Mapper is a domain scanning script designed to identify vulnerabilities in a domain environment for security assessment purposes. It leverages various tools to gather information, but it's crucial to note that it's intended for use primarily on Kali Linux. This script will automatically download any dependencies not pre-installed on Kali.
 
 **Dependencies:**
 
